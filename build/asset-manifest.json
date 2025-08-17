@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.763c3894.css",
+    "main.js": "/static/js/main.7c466986.js",
+    "static/media/carouselimg2.jpg": "/static/media/carouselimg2.74cdf9a921c4f20a7a9f.jpg",
+    "static/media/carouselimg1.jpg": "/static/media/carouselimg1.d104c464fc233190bf76.jpg",
+    "static/media/python-course.jpg": "/static/media/python-course.67e40b007686258f2408.jpg",
+    "static/media/js-course.jpg": "/static/media/js-course.c4010bc4c717ecc507f9.jpg",
+    "index.html": "/index.html",
+    "main.763c3894.css.map": "/static/css/main.763c3894.css.map",
+    "main.7c466986.js.map": "/static/js/main.7c466986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763c3894.css",
+    "static/js/main.7c466986.js"
+  ]
+}
